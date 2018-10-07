@@ -84,4 +84,4 @@ An exploration for Eventline (important news Rank organized by pulic time)，针
 2、从输出的timeline来看，能粗略地看到一个结果，但如何能够真正快速的发现，实际上还有的做。   
 3、重点解决项目所述的第二个问题    
 
-TO BE CONTINUED.....  
+If any question about the project or me ,see https://liuhuanyong.github.io/
